@@ -7,7 +7,7 @@ It can hendle different file descriptors at the same time.
 
 ## **How to get started:**
 Copy the files in your program folder , add the header in your main and compile the .c file with your main. To make the function more you can set a buffer of  your choice adding -D BUFFER_SIZE= while you compile.
-Example 
+Example:
 ```
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 *.c
 ```
