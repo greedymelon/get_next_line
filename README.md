@@ -16,7 +16,5 @@ The function will return an allocated string with the line including the '\n' at
 The returned string has to be free.
 
 #### Output
-The next line of the file.
+The next line of the file.<br>
 NULL if an error is encountered or there are no more lines to read.
-
-
